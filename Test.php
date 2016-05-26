@@ -8,3 +8,5 @@ class Test extends PHPUnit_Framework_TestCase
 }
 
 ?>
+<p>2=1+1</p>
+
